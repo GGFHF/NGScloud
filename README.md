@@ -1,7 +1,7 @@
 # NGScloud ()
 
     WARNING: Now NGScloud is deprecated. You must use NGScloud2, a major version of NGScloud,
-    available at "https://github.com/GGFHF/NGScloud2/".
+    available at https://github.com/GGFHF/NGScloud2/.
 
 NGScloud is a bioinformatic system developed to analyze RNA-seq data using the cloud computing services
 of Amazon that permit the access to ad hoc computating infrastructure scaled according to the complexity
